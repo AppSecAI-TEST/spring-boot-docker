@@ -1,0 +1,11 @@
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/Controller/WeatherController.java
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/Repository/WeatherRepository.java
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/RepositoryImpl/WeatherRepositoryImpl.java
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/config/WebConfig.java
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/Exception/NotFoundException.java
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/Service/WeatherService.java
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/Repository/WeatherRepositoryComplex.java
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/Exception/BadRequestException.java
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/Entity/Weather.java
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/Application.java
+/home/skyewalker/workspace/spring-boot-weather/src/main/java/io/api/ServiceImpl/WeatherServiceImpl.java
